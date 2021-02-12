@@ -1,4 +1,4 @@
-CONTIKI_PROJECT = tx
+CONTIKI_PROJECT = rx
 all: $(CONTIKI_PROJECT)
 
 flash: 
